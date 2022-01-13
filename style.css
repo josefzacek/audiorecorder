@@ -1,0 +1,8 @@
+body {
+  background: rgb(251,209,5);
+  background: radial-gradient(circle, rgba(251,209,5,1) 0%, rgba(226,49,103,1) 100%);
+}
+
+h1.timer {
+  font-size: 5rem;
+}
